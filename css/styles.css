@@ -91,6 +91,10 @@
   }
 }
 
+.col-md-6 > .form-group {
+    margin-bottom: 2rem;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
